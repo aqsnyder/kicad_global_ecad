@@ -1,0 +1,16 @@
+.ERJ-6RBD1003V :1 ;Panasonic Precision Thick Film Surface Mount Resistor 0805 Case 100k +/-0.5% 0.1W +/-50ppm/C
+RESC2012X70N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN ERJ-6RBD1003V
+~!Mouser Part Number (667-ERJ-6RBD1003V)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-6RBD1003V?qs=KTDjhDDUMAk65pXoED4GYQ%3D%3D)
+~!Manufacturer_Name (Panasonic)
+~!Manufacturer_Part_Number (ERJ-6RBD1003V)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0038499.pdf)
+~!Height (0.7mm)
+~!3D_Model (ERJ-6RBD1003V)
+ERJ-6RBD1003V
+1.1!U 2.1!U 

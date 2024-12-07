@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=ERJ-6RBD1003V
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2016-09-01 16:26:15
+Downloaded=2024-12-07 00:58:50
+3D=Y

@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=ERJ-U06D1R02V
+PartCategory=Resistor
+PackageCategory=Other
+PinCount=2
+Version=2.1
+Released=2021-09-30 13:18:40
+Downloaded=2024-12-07 01:00:42
+3D=Y
